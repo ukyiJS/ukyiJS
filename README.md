@@ -15,9 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href=“https://github.com/ukyiJS#gh-light-mode-only”>
-    <img src=“https://raw.githubusercontent.com/ukyiJS/ukyiJS/output/github-contribution-grid-snake-default.svg#gh-light-mode-only”/>
-</a>
-<a href=“https://github.com/ukyiJS#gh-dark-mode-only”>
-    <img src=“https://raw.githubusercontent.com/ukyiJS/ukyiJS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only”/>
-</a>
+![GitHub Snake Light](https://raw.githubusercontent.com/ukyiJS/ukyiJS/output/github-contribution-grid-snake-default.svg#gh-light-mode-only)
+![GitHub Snake dark](https://raw.githubusercontent.com/ukyiJS/ukyiJS/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
