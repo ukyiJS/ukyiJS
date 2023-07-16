@@ -4,7 +4,7 @@
 </div>
 <div align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=18&duration=5000&pause=1000&color=1e87f0&center=true&vCenter=true&width=400&height=18&lines=Nice+to+meet+you.)](https://github.com/ukyiJS)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&weight=500&size=18&duration=6000&pause=0&color=1e87f0&center=true&vCenter=true&width=400&height=18&lines=Nice+to+meet+you.)](https://github.com/ukyiJS)
 </div>
 
 <div align="center">
