@@ -9,5 +9,5 @@
 
 <div align="center">
 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FukyiJS&count_bg=%231E87F0&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Star&edge_flat=false)](https://github.com/ukyiJS)
+  [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FukyiJS?color=blue&label=hits&size=small)](https://myhits.vercel.app)
 </div>
